@@ -51,7 +51,9 @@ Trong đó:
 + Đối tượng tiêm hai mũi vaccine trở lên có chứng nhận thẻ xanh: không bị hạn chế hoạt động (CDC THÀNH PHỐ ĐÀ NẴNG 2021).
 
 3. Phân tích yêu cầu
+
 3.1. Yêu cầu chức năng
+
 a) Yêu cầu lưu trữ
 Hệ thống cần lưu trữ các thông tin về các loại vaccine, thông tin các đơn vị tổ chức tiêm chủng, thông tin công dân, thông tin lịch tiêm chủng, lịch đăng ký tiêm chủng, thông tin về các mũi tiêm của công dân.
 * Thông tin đăng nhập: số điện thoại, mật khẩu, quyền truy cập.
